@@ -18,7 +18,7 @@ require (
 	github.com/tektoncd/pipeline v0.14.2
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776
 	k8s.io/api v0.17.6
-	k8s.io/apimachinery v0.17.6
+	k8s.io/apimachinery v0.20.4
 	k8s.io/client-go v12.0.0+incompatible
 	k8s.io/utils v0.0.0-20200124190032-861946025e34
 	knative.dev/pkg v0.0.0-20200528142800-1c6815d7e4c9
